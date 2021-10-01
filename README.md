@@ -7,9 +7,9 @@
 
  ## Um pouco sobre mim:
 
-👷🏻‍♂️ Sou formado em engenharia civl, e foi durante a graduação que eu descobri a minha vocação para a programação;
+👷🏻‍♂️ Sou formado em engenharia civil, e foi durante a graduação que eu descobri a minha vocação para a programação;
 
-👨🏻‍💻 Adoro programar, e estou me dedicando para seguir carreira como desenvolvedor;
+👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;
 
 🌳 Tenho uma relação muito forte com a natureza;
 
