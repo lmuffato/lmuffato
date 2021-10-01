@@ -28,11 +28,9 @@ alt="React logo" title="React.js / React Native" height="25" /> <img src="https:
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=#00989d" alt="Arduino logo" title="Arduino" height="25" />
 <br />
-<br />
 
 # 🛠️ Ferramentas que eu costumo utilizar:
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" /> <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=6464e2" alt191970="ESLint logo" title="ESLint" height="25" /> <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=F05032" alt191970="Ubuntu logo" title="Ubuntu" height="25" />
-<br />
 <br />
 
 # 📚 Pretendo aprender:
