@@ -3,26 +3,23 @@
 ![LinkedIn](IMG_20190120_181535.jpg)
  
  # Sou estudante de Desenvolvimento de Software na [Trybe!](https://www.betrybe.com/) 👨🏻‍💻
-<br />
 
  ## Um pouco sobre mim:
 
 
- 👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação.
- 👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;
- 💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;
+ 👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
+ 👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;<br />
+ 💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
-
 <br />
 
- ## Meus hobbies:
+## Meus hobbies:
 
-* 👨🏻‍💻 Desenvolver projetos de programação e Arduino;
-* 🏕️ Fazer trilha na floresta e nadar em cachoeiras;
-* 📷 Fotografar a natureza;
-* 🏍️ Viajar de moto;
-* 🌱 Plantar árvores;
-
+👨🏻‍💻 Desenvolver projetos de programação e Arduino;<br />
+🏕️ Fazer trilha na floresta e nadar em cachoeiras;<br />
+📷 Fotografar a natureza;<br />
+🏍️ Viajar de moto;<br />
+🌱 Plantar árvores;
 <br />
 
  # 💻 Tecnologias que eu utilizo:
@@ -42,13 +39,9 @@ alt="React logo" title="React.js / React Native" height="25" /> <img src="https:
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
 alt="Python logo" title="Python" height="25" /> <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=white" alt="Java logo" title="Java" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
-
-
-
 <br />
-<br />
+
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact'>
-<br />
 <br />
 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/lucasmuffato/)
