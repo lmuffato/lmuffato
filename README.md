@@ -7,7 +7,6 @@
 
  ## Um pouco sobre mim:
 
-🌳 Eu tenho uma relação muito forte com a natureza;
 
 👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação.
 
