@@ -7,11 +7,15 @@
 
  ## Um pouco sobre mim:
 
+🌳 Eu tenho uma relação muito forte com a natureza;
+
 👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação.
 
 👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;
 
-🌳 Tenho uma relação muito forte com a natureza;
+💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;
+
+📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
 
 <br />
 
