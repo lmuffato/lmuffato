@@ -7,7 +7,7 @@
 
  ## Um pouco sobre mim:
 
-👷🏻‍♂️ Sou formado em engenharia civil, e foi durante a graduação que eu descobri a minha vocação para a programação;
+👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação.
 
 👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;
 
@@ -24,6 +24,8 @@
 * 📷 Fotografar a natureza;
  
 * 🏍️ Viajar de moto;
+
+* 🌱 Plantar árvores;
 
 <br />
 
@@ -56,5 +58,3 @@ alt="Docker logo" title="Docker" height="25" />
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/lucasmuffato/)
 [![Instagram](instagram.png)](https://www.instagram.com/lucasmmuffato/)
 [![Mail](mail.png)](mailto:lmiremuffato@gmail.com)
-
-
