@@ -14,7 +14,7 @@
 
  👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
  👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;<br />
- ⚙️ Gosto de mesclar diferentes áreas do conhecimento,  ;<br />
+ ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
 <br />
