@@ -1,16 +1,16 @@
-<div align='center'> <h1> Olá, seja bem vindo ao meu habitat</h1></div>
+<div align='left'> <h1> Olá, seja bem vindo ao meu habitat</h1></div>
 
 <!-- ![LinkedIn](IMG_20190120_181535.jpg) -->
  
 <div>
 <img src='IMG_20190120_181535.jpg' width='600px'>
 </div>
-<br />
 
  ## Sou estudante de Desenvolvimento de Software na [Trybe!](https://www.betrybe.com/) 👨🏻‍💻
 
- ## Um pouco sobre mim:
+<span>
 
+ ## Um pouco sobre mim:
 
  👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
  👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;<br />
@@ -18,6 +18,8 @@
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
 <br />
+</span>
+<span>
 
 ## Meus hobbies:
 
@@ -27,6 +29,7 @@
 🏍️ Viajar de moto;<br />
 🌱 Plantar árvores;
 <br />
+</span>
 
  # 💻 Tecnologias que eu utilizo:
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
