@@ -53,6 +53,7 @@ alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" />
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=6464e2" alt191970="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=F05032" alt191970="Ubuntu logo" title="Ubuntu" height="25" />
+<img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
 <br />
 <br />
 
@@ -62,6 +63,8 @@ alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=white" alt="Java logo" title="Java" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
+src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" /> <img
+src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
 <br />
 <br />
 
