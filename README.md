@@ -71,6 +71,7 @@ alt="Docker logo" title="Docker" height="25" />
 # Minha vida no gitbub:
 <img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true'><br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show'><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact)]
 <br />
 
 # Me siga nas redes sociais:
