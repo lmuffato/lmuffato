@@ -13,7 +13,6 @@
  ## Um pouco sobre mim:
 
  👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
- 👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;<br />
  ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
@@ -24,10 +23,8 @@
 ## Meus hobbies:
 
 👨🏻‍💻 Desenvolver projetos de programação e Arduino;<br />
-🏕️ Fazer trilha na floresta e nadar em cachoeiras;<br />
-📷 Fotografar a natureza;<br />
+🏕️ Fazer trilha na floresta, nadar em cachoeiras e plantar árvores;<br />
 🏍️ Viajar de moto;<br />
-🌱 Plantar árvores;
 <br />
 </span>
 
