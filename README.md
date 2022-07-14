@@ -76,15 +76,15 @@ alt="Docker logo" title="Docker" height="25" />
 <br />
 <br />
 
-# Minha vida no gitbub:
+## Minha vida no gitbub:
 
-<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="300">
+<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="400">
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="300">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="400">
 
 <br />
 
-# Me siga nas redes sociais:
+## Me siga nas redes sociais:
 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/lucasmuffato/)
 [![Instagram](instagram.png)](https://www.instagram.com/lucasmmuffato/)
