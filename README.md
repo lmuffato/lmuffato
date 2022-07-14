@@ -11,6 +11,8 @@
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
  
 <br />
+</span>
+<span>
 
 ## Meus hobbies:
 
@@ -76,8 +78,9 @@ alt="Docker logo" title="Docker" height="25" />
 
 ## Minha vida no gitbub:
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="400">
 <img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="400">
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="400">
 
 <br />
 
