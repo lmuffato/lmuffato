@@ -1,21 +1,15 @@
-<div align='left'> <h1> Olá, seja bem vindo ao meu habitat</h1></div>
+<div align='left'> <h1> Seja bem vindo!</h1></div>
 
 <!-- ![LinkedIn](IMG_20190120_181535.jpg) -->
- 
-<div>
-<img src='IMG_20190120_181535.jpg' width='600px'>
-</div>
-
- ## Sou estudante de Desenvolvimento de Software na [Trybe!](https://www.betrybe.com/) 👨🏻‍💻
-
-<span>
 
  ## Um pouco sobre mim:
 
+ 👨🏻‍💻 Fui estudante da turma 10 na Trybe.<br />
  👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
  ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
+ 
 <br />
 </span>
 <span>
@@ -28,7 +22,7 @@
 <br />
 </span>
 
- # 💻 Tecnologias que eu utilizo:
+ ## 💻 Tecnologias com que eu já trabelhei ou desenvolvi projetos:
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -42,32 +36,52 @@ alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
 <img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=#00989d" alt="Arduino logo" title="Arduino" height="25" />
 <img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#00989d" alt="Heroku logo" title="Heroku" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
+alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
+<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
+alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/MariaDb-282C34?logo=MariaDb&logoColor=007ACC"
+alt="MariaDb logo" title="MariaDb" height="25" />
+<img src="https://img.shields.io/badge/CouchDb-282C34?logo=CouchDb&logoColor=007ACC"
+alt="CouchDb logo" title="CouchDb" height="25" />
+<img src="https://img.shields.io/badge/Redis-282C34?logo=Redis&logoColor=007ACC"
+alt="Redis logo" title="Redis" height="25" />
 <br />
 <br />
 
-# 🛠️ Ferramentas que eu costumo utilizar:
+## 📚 Tecnologias com que eu trabalho atualmente:
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
+<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/CouchDb-282C34?logo=CouchDb&logoColor=007ACC"
+alt="CouchDb logo" title="CouchDb" height="25" />
+<img src="https://img.shields.io/badge/Redis-282C34?logo=Redis&logoColor=007ACC"
+alt="Redis logo" title="Redis" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
+alt="Docker logo" title="Docker" height="25" />
+<br />
+<br />
+
+## 🛠️ Ferramentas que eu costumo utilizar:
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" />
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=6464e2" alt191970="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=F05032" alt191970="Ubuntu logo" title="Ubuntu" height="25" />
 <img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
-<br />
-<br />
-
-# 📚 Pretendo aprender:
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
-alt="Python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=white" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
-alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
-<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
+<img src="https://img.shields.io/badge/ClickUp-282C34?logo=ClickUp&logoColor=2EB67D" alt="ClickUp logo" title="ClickUp" height="25" />
+<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=2EB67D" alt="Discord logo" title="Discord" height="25" />
+<img src="https://img.shields.io/badge/VPN-282C34?logo=VPNd&logoColor=2EB67D" alt="VPN logo" title="VPN" height="25" />
 <br />
 <br />
 
 # Minha vida no gitbub:
-<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true'><br />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show'><br />
+
+<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="300">
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="300">
+
 <br />
 
 # Me siga nas redes sociais:
