@@ -4,11 +4,11 @@
 
  ## Um pouco sobre mim:
 
- 👨🏻‍💻 Fui estudante da turma 10 na Trybe.<br />
- 👷🏻‍♂️ Sou formado em engenharia civil, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
- ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
+ 👨🏻‍💻 Fui estudante da Trybe.<br />
+ 👷🏻‍♂️ Sou formado em engenharia civil e foi durante o curso que descobri minha vocação para a programação;<br />
+ ⚙️ Gosto de mesclar diferentes áreas do conhecimento e você pode conferir isso nos meus projetos de IOT;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
- 📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
+ 📬 Se quiser entrar em contato comigo, pode me enviar uma mensagem no email: lmiremuffato@gmail.com.
  
 <br />
 </span>
@@ -16,7 +16,7 @@
 
 ## Meus hobbies:
 
-👨🏻‍💻 Desenvolver projetos de programação e Arduino;<br />
+👨🏻‍💻 Desenvolver projetos de eletrônica e Arduino;<br />
 🏕️ Fazer trilha na floresta, nadar em cachoeiras e plantar árvores;<br />
 🏍️ Viajar de moto;<br />
 <br />
@@ -39,7 +39,9 @@ alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
-<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
+<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" />
+<img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=007ACC"
+alt="R logo" title="R" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
 alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/MariaDb-282C34?logo=MariaDb&logoColor=007ACC"
@@ -48,6 +50,8 @@ alt="MariaDb logo" title="MariaDb" height="25" />
 alt="CouchDb logo" title="CouchDb" height="25" />
 <img src="https://img.shields.io/badge/Redis-282C34?logo=Redis&logoColor=007ACC"
 alt="Redis logo" title="Redis" height="25" />
+<img src="https://img.shields.io/badge/NewRelic-282C34?logo=NewRelic&logoColor=007ACC"
+alt="NewRelic logo" title="NewRelic" height="25" />
 <br />
 <br />
 
@@ -78,13 +82,13 @@ alt="Docker logo" title="Docker" height="25" />
 
 ## Minha vida no gitbub:
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="400">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' height="150">
 
-<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="400">
+<img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' height="150">
 
 <br />
 
-# Me siga nas redes sociais:
+## Me siga nas redes sociais:
 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/lucasmuffato/)
 [![Instagram](instagram.png)](https://www.instagram.com/lucasmmuffato/)
