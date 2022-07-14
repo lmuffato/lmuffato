@@ -9,6 +9,7 @@
  ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar um email: lmiremuffato@gmail.com.
+ 
 <br />
 </span>
 <span>
@@ -18,7 +19,7 @@
 👨🏻‍💻 Desenvolver projetos de programação e Arduino;<br />
 🏕️ Fazer trilha na floresta, nadar em cachoeiras e plantar árvores;<br />
 🏍️ Viajar de moto;<br />
-
+<br />
 </span>
 
  ## 💻 Tecnologias com que eu já trabelhei ou desenvolvi projetos:
@@ -77,7 +78,6 @@ alt="Docker logo" title="Docker" height="25" />
 
 ## Minha vida no gitbub:
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lmuffato&layout=compact&theme=dracula&show' width="400">
 <img src='https://github-readme-stats.vercel.app/api?username=lmuffato&theme=dracula&show_icons=true' width="400">
 
 <br />
