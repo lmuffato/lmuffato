@@ -58,11 +58,10 @@ alt="CouchDb logo" title="CouchDb" height="25" />
 alt="Redis logo" title="Redis" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
-<span/>
-<br />
-
+<span/><br />
 
 ## 🛠️ Ferramentas que eu costumo utilizar:
+<span>
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" />
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=6464e2" alt191970="ESLint logo" title="ESLint" height="25" />
@@ -70,7 +69,7 @@ alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
 <img src="https://img.shields.io/badge/ClickUp-282C34?logo=ClickUp&logoColor=2EB67D" alt="ClickUp logo" title="ClickUp" height="25" />
 <img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=2EB67D" alt="Discord logo" title="Discord" height="25" />
-<img src="https://img.shields.io/badge/VPN-282C34?logo=VPNd&logoColor=2EB67D" alt="VPN logo" title="VPN" height="25" /><br />
+<img src="https://img.shields.io/badge/VPN-282C34?logo=VPNd&logoColor=2EB67D" alt="VPN logo" title="VPN" height="25" /><span/><br />
 
 ## Minha vida no gitbub:
 
