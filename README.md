@@ -3,7 +3,6 @@
  👨🏻‍💻 Fui estudante da Trybe.<br />
  👷🏻‍♂️ Sou formado em engenharia civil e foi durante o curso que descobri minha vocação para a programação;<br />
  ⚙️ Gosto de mesclar diferentes áreas do conhecimento e você pode conferir isso nos meus projetos de IOT;<br />
- 📈 Tenho interesse especial em data science.<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
  📬 Se quiser entrar em contato comigo, pode me enviar uma mensagem no email: lmiremuffato@gmail.com.<br />
 
@@ -12,9 +11,9 @@
 👨🏻‍💻 Desenvolver projetos de eletrônica e Arduino;<br />
 🏕️ Fazer trilha na floresta, nadar em cachoeiras e plantar árvores;<br />
 🏍️ Viajar de moto;<br />
+<br />
 
  ## 💻 Tecnologias com que eu já trabelhei ou desenvolvi projetos:
-
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -45,9 +44,9 @@ alt="Redis logo" title="Redis" height="25" />
 <img src="https://img.shields.io/badge/NewRelic-282C34?logo=NewRelic&logoColor=007ACC"
 alt="NewRelic logo" title="NewRelic" height="25" />
 <br />
+<br />
 
 ## 📚 Tecnologias com que eu trabalho atualmente:
-
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
 <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" />
@@ -57,6 +56,7 @@ alt="CouchDb logo" title="CouchDb" height="25" />
 alt="Redis logo" title="Redis" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
+<br />
 <br />
 
 ## 🛠️ Ferramentas que eu costumo utilizar:
