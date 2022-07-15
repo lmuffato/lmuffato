@@ -14,6 +14,7 @@
 <br />
 
  ## 💻 Tecnologias com que eu já trabelhei ou desenvolvi projetos:
+<span>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -43,10 +44,11 @@ alt="CouchDb logo" title="CouchDb" height="25" />
 alt="Redis logo" title="Redis" height="25" />
 <img src="https://img.shields.io/badge/NewRelic-282C34?logo=NewRelic&logoColor=007ACC"
 alt="NewRelic logo" title="NewRelic" height="25" />
-<br />
+<span/>
 <br />
 
 ## 📚 Tecnologias com que eu trabalho atualmente:
+<span>
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" />
 <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" />
@@ -56,8 +58,9 @@ alt="CouchDb logo" title="CouchDb" height="25" />
 alt="Redis logo" title="Redis" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
+<span/>
 <br />
-<br />
+
 
 ## 🛠️ Ferramentas que eu costumo utilizar:
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
@@ -67,9 +70,7 @@ alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
 <img src="https://img.shields.io/badge/ClickUp-282C34?logo=ClickUp&logoColor=2EB67D" alt="ClickUp logo" title="ClickUp" height="25" />
 <img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=2EB67D" alt="Discord logo" title="Discord" height="25" />
-<img src="https://img.shields.io/badge/VPN-282C34?logo=VPNd&logoColor=2EB67D" alt="VPN logo" title="VPN" height="25" />
-<br />
-<br />
+<img src="https://img.shields.io/badge/VPN-282C34?logo=VPNd&logoColor=2EB67D" alt="VPN logo" title="VPN" height="25" /><br />
 
 ## Minha vida no gitbub:
 
