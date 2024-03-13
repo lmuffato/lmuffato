@@ -1,17 +1,9 @@
  ## Um pouco sobre mim:
 
- 👨🏻‍💻 Fui estudante da Trybe.<br />
- 👷🏻‍♂️ Sou formado em engenharia civil e foi durante o curso que descobri minha vocação para a programação;<br />
- ⚙️ Gosto de mesclar diferentes áreas do conhecimento e você pode conferir isso nos meus projetos de IOT;<br />
+ 👨🏻‍💻 Sou um desemvolvedor back-end com formação em engenharia;<br />
+ ⚙️ Gosto de mesclar diferentes áreas do conhecimento e você pode conferir isso nos meus projetos pessoais, principalmente de IOT;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
- 📬 Se quiser entrar em contato comigo, pode me enviar uma mensagem no email: lmiremuffato@gmail.com.<br />
-
-## Meus hobbies:
-
-👨🏻‍💻 Desenvolver projetos de eletrônica e Arduino;<br />
-🏕️ Fazer trilha na floresta, nadar em cachoeiras e plantar árvores;<br />
-🏍️ Viajar de moto;<br />
-<br />
+ 📬 Se quiser entrar em contato comigo, pode me enviar uma mensagem no meu linkedin: https://www.linkedin.com/in/lucasmuffato/.<br />
 
  ## 💻 Tecnologias com que eu já trabelhei ou desenvolvi projetos:
 <span>
