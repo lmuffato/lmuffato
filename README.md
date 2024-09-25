@@ -1,17 +1,18 @@
 ## <span style="font-size: 30px;">📝 Um pouco sobre mim:</span>
 
-👨🏻‍💻 Sou um desenvolvedor back-end com formação em engenharia;<br/>
-🔢 Minha principal competência é a resolução de problemas reais utilizando física, geometria analítica, álgebra e cálculo.<br/>
-⚙️ Gosto de mesclar diferentes áreas do conhecimento, e você pode conferir isso nos meus projetos pessoais, especialmente os que envolvem IoT e eletrônica;<br/>
-💡 Valorizo muito a colaboração, então se precisar de ajuda em algo, é só chamar;<br />
-📬 Para entrar em contato comigo, me envie uma mensagem no meu [LinkedIn](https://www.linkedin.com/in/lucasmuffato/).<br />
+### 👨🏻‍💻 Sou um desenvolvedor back-end com formação em engenharia;<br/>
+### 🔢 Minha principal competência é a resolução de problemas reais utilizando física, geometria analítica, álgebra e cálculo.<br/>
+### ⚙️ Gosto de mesclar diferentes áreas do conhecimento, e você pode conferir isso nos meus projetos pessoais, especialmente os que envolvem IoT e eletrônica;<br/>
+### 💡 Valorizo muito a colaboração, então se precisar de ajuda em algo, é só chamar;<br />
+### 📬 Para entrar em contato comigo, me envie uma mensagem no meu [LinkedIn](https://www.linkedin.com/in/lucasmuffato/).<br />
+
 
 ---
 
 ## <span style="font-size: 30px;">💻 Tecnologias com que já trabalhei em projetos:</span>
 
 ### 🎨 Front-end:
-<span>
+<span style="font-size: 30px;">
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" height="25" />
