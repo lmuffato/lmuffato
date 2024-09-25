@@ -4,14 +4,13 @@
 ### 🔢 Minha principal competência é a resolução de problemas reais utilizando física, geometria analítica, álgebra e cálculo.<br/>
 ### ⚙️ Gosto de mesclar diferentes áreas do conhecimento, e você pode conferir isso nos meus projetos pessoais, especialmente os que envolvem IoT e eletrônica;<br/>
 ### 💡 Valorizo muito a colaboração, então se precisar de ajuda em algo, é só chamar;<br />
-### 📬 Para entrar em contato comigo, envie uma mensagem no meu [LinkedIn](https://www.linkedin.com/in/lucasmuffato/).<br />
-
+### 📬 Para entrar em contato comigo, me envie uma mensagem no meu [LinkedIn](https://www.linkedin.com/in/lucasmuffato/).<br />
 
 ---
 
 ## <span style="font-size: 30px;">💻 Tecnologias com que já trabalhei em projetos:</span>
 
-### 🎨 Front-end:
+## 🎨 Front-end:
 <span style="font-size: 30px;">
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" height="35" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" height="35" />
@@ -23,7 +22,7 @@
   <img src="https://img.shields.io/badge/Blade-282C34?logo=Blade&logoColor=cc0000" alt="Blade logo" height="35" />
 </span>
 
-### 💻 Back-end:
+## 💻 Back-end:
 <span>
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" height="35" />
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=339933" alt="Express logo" height="35" />
@@ -41,7 +40,7 @@
   <img src="https://img.shields.io/badge/NewRelic-282C34?logo=NewRelic&logoColor=007ACC" alt="NewRelic logo" height="35" />
 </span>
 
-### 🗄️ Bancos de Dados:
+## 🗄️ Bancos de Dados:
 <span>
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB"  height="35" />
 <img src="https://img.shields.io/badge/CouchDb-282C34?logo=CouchDb&logoColor=007ACC" alt="CouchDb"  height="35" />
@@ -49,13 +48,13 @@
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" height="35" />
 </span>
 
-### 🤖 IoT e Projetos com Hardware:
+## 🤖 IoT e Projetos com Hardware:
 <span>
   <img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" height="35" />
 <img src="https://img.shields.io/badge/C++-282C34?logo=Cplusplus&logoColor=#00989d" alt="C++ logo" height="35" />
 </span>
 
-### 🛠️ Ferramentas que costumo utilizar:
+## 🛠️ Ferramentas que costumo utilizar:
 <span>
 <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" height="35" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" height="35" />
@@ -70,7 +69,7 @@
 ---
 
 ## <span style="font-size: 30px;">Atualmente:</span>
-#### 📊 Estudo NBA em Ciência de Dados na USP utilizando:<br/>
+## 📊 Estudo NBA em Ciência de Dados na USP utilizando:<br/>
 <span>
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC" alt="Python logo" title="Python" height="35" />
 <img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=007ACC" alt="R logo" title="R" height="35" />
