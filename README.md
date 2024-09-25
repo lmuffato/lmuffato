@@ -69,14 +69,6 @@
 ---
 
 ## <span style="font-size: 30px;">Atualmente:</span>
-#### 💼 Trabalho com back-end utilizando:<br/>
-<span>
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC" alt="Python logo" height="25" />
-<img src="https://img.shields.io/badge/Flask-282C34?logo=Flask&logoColor=007ACC" alt="Flask logo" height="25" />
-<img src="https://img.shields.io/badge/FastApi-282C34?logo=FastApi&logoColor=007ACC" alt="FastApi logo" height="25" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" height="25" />
-<span/>
-
 #### 📊 Estudo NBA em Ciência de Dados na USP utilizando:<br/>
 <span>
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
