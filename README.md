@@ -1,9 +1,11 @@
 ## <span style="font-size: 30px;">📝 Um pouco sobre mim:</span>
 
-### 👨🏻‍💻 Sou um desenvolvedor back-end com formação em engenharia;<br/>
-### 🔢 Minha principal competência é a resolução de problemas reais utilizando física, geometria analítica, álgebra e cálculo.<br/>
-### ⚙️ Gosto de mesclar diferentes áreas do conhecimento, e você pode conferir isso nos meus projetos pessoais, especialmente os que envolvem IoT e eletrônica;<br/>
-### 💡 Valorizo muito a colaboração, então se precisar de ajuda em algo, é só chamar;<br />
+### 📊 Cientista de Dados em Formação;
+### ⚙️ Formação em Engenharia;<br/>
+### 👨🏻‍💻 Desenvolvedor back-end com 5 anos de experiência;<br/>
+### 🔢 Experiência em resolução de problemas reais utilizando física, geometria analítica, álgebra e cálculo.<br/>
+### ⚙️ Experiência em soluções que mesclam diferentes áreas de conhecimento;<br/>
+### 🧠 Minha principal habilidade é o Pensamento Lateral;<br/>
 ### 📬 Para entrar em contato comigo, me envie uma mensagem no meu [LinkedIn](https://www.linkedin.com/in/lucasmuffato/).<br />
 
 ---
