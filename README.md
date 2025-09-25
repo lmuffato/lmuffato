@@ -3,14 +3,7 @@
 <br>Autor da biblioteca python jiboia-gpu, uma biblioteca que usa GPU da NVIDA para normaliza dados, e otimizar o uso de memória em dataframes.
 <br>Link do pacote: https://pypi.org/project/jiboia-gpu/
 <br>Repositório: https://github.com/lmuffato/jiboia-gpu
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254 254" width="120">
-  <circle cx="127" cy="127" r="127" fill="#EEEEEE"/>
-  <g transform="translate(127,127) scale(0.6) translate(-127,-127)">
-    <path fill="#51A8B1" d="M197 148l-141 0c-2,0 -4,1 -5,3 -1,2 -1,4 0,6 1,2 3,3 5,3l141 0c26,0 47,21 47,47 0,26 -21,47 -47,47l-187 0c3,-23 23,-41 47,-41l141 0c3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6l-141 0c-17,0 -32,-9 -41,-24 -8,-15 -8,-33 0,-47 8,-15 24,-24 41,-24l141 0c3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6l-141 0c-17,0 -32,-9 -41,-24 -8,-15 -8,-33 0,-47 8,-15 24,-24 41,-24l135 0 53 25c1,7 -2,13 -8,17l-180 0c-2,0 -4,1 -5,3 -1,2 -1,4 0,6 1,2 3,3 5,3l141 0c26,0 47,21 47,47 0,26 -21,48 -47,48l-1 0zm6 -124c0,-3 -3,-6 -6,-6 -3,0 -6,3 -6,6 0,3 3,6 6,6 3,0 6,-3 6,-6z"/>
-  </g>
-</svg>
-Links:
+<img src="https://github.com/lmuffato/jiboia-gpu/blob/main/jiboia_icon.svg" width="120" />
 
 ## 📖 Sobre mim
 <br>🎓 Formado em Engenharia
