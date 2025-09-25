@@ -3,7 +3,7 @@
 <br>Autor da biblioteca python jiboia-gpu, uma biblioteca que usa GPU da NVIDA para normaliza dados, e otimizar o uso de memória em dataframes.
 <br>Link do pacote: https://pypi.org/project/jiboia-gpu/
 <br>Repositório: https://github.com/lmuffato/jiboia-gpu
-<img src="https://github.com/lmuffato/jiboia-gpu/blob/main/jiboia_icon.svg" width="120" />
+<br><img src="https://github.com/lmuffato/jiboia-gpu/blob/main/jiboia_icon.svg" width="120" />
 
 ## 📖 Sobre mim
 <br>🎓 Formado em Engenharia
