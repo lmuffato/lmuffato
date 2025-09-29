@@ -34,9 +34,8 @@
 
 ## 📅 Linha do Tempo
 
-**2021:** Bild - Back-end  
-**2025:** Smarti - Pleno Back-end python
-**Hoje:** Estudando data science and analitycs na **USP**
+**2021-2024:** Bild - Back-end</br>
+**2025:** Estudando data science and analitycs na **USP**</br>
 
 ---
 <span>
